@@ -1,0 +1,8 @@
+com/example/mymusicplayer/BuildConfig.java
+ com.example.mymusicplayer.BuildConfig
+com/example/mymusicplayer/MainActivity.java
+ com.example.mymusicplayer.MainActivity
+ com.example.mymusicplayer.MainActivity$1
+ com.example.mymusicplayer.MainActivity$2
+ com.example.mymusicplayer.MainActivity$3
+ com.example.mymusicplayer.MainActivity$4
